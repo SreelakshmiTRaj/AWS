@@ -2,7 +2,7 @@
 
 A step-by-step guide to deploying a fault-tolerant, auto-scaling web application on AWS using an Auto Scaling Group (ASG) behind an Application Load Balancer (ALB).
 
-📄 [Full tutorial PDF](./Auto_Scaling_Tutorial.pdf)
+📄 [Full tutorial PDF](./Auto_Scaling_Tutorial.pdf) 
 
 ---
 
