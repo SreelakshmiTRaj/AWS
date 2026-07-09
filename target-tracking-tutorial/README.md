@@ -2,7 +2,7 @@
 
 A step-by-step guide to configuring a Target Tracking Scaling Policy on AWS, so EC2 capacity adjusts automatically based on real CPU demand instead of staying fixed.
 
-📄 [Full tutorial PDF](./Implementing_Dynamic_Auto_Scaling_on_AWS_using_Target_Tracking_Policy.pdf)
+📄 [Full tutorial PDF](./Implementing%20Dynamic%20Auto%20Scaling%20on%20AWS%20using%20Target%20Tracking%20Policy.pdf)
 
 ---
 
